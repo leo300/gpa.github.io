@@ -3,7 +3,7 @@ layout: post
 title:  "ගස් කොළ"
 date:   2017-09-17 20:55:34 +0200
 categories: lunchtimestory
-episode:EP01
+episode: EP01
 ---
 ඉතින් රෑ උනාද ?
 
