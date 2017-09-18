@@ -5,15 +5,20 @@
   
   {% include header.html %}
  
-
+<nav>
+    <div class="nav-wrapper">
       <div class="container">
           <a href="#" class="brand-logo">{{ site.blog_name }} </a>      
       </div>
+    </div>
+</nav>
     
  
-<div class="container">
-     {{ content }} 
-</div>
+<div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
  
  
 {% include footer.html %}
